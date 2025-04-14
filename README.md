@@ -35,11 +35,6 @@ We care deeply about your privacy. No personal data is collected or stored onlin
 
 # 🔐 Privacy Policy
 
-<details>
-<summary>Click to view the full Privacy Policy</summary>
-
-<br>
-
 _Last updated: 04/12/2025_
 
 At **Flavor Book**, your privacy is a priority. The app was designed from the ground up **without any external frameworks**, ensuring that your data stays **100% private and local**.
@@ -105,12 +100,7 @@ Your continued use of the app after any changes are published will constitute yo
 
 ---
 
-</details>
-
 # 📄 Terms of Service
-
-<details>
-<summary>Click to view the full Terms of Services</summary>
 
 _Last updated: 04/12/2025_
 
@@ -189,8 +179,6 @@ Failure to enforce a right or provision under these Terms shall not constitute a
 We may modify these Terms at any time. If changes are material, we will provide at least 30 days' notice before they take effect. Continued use of the Service after changes means You accept the new Terms.
 
 ---
-
-</details>
 
 ## 📬 Contact
 
