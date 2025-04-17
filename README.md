@@ -186,6 +186,6 @@ For questions, feedback, or suggestions:
 📧 [vaidd.coding@gmail.com](mailto:vaidd.coding@gmail.com)
 
 
-[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/fr/app/flavor-book/id6744068987?l=en-GB)
 
 ---
