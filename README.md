@@ -37,7 +37,7 @@ We care deeply about your privacy. No personal data is collected or stored onlin
 
 _Last updated: 04/12/2025_
 
-At **Flavor Book**, your privacy is a priority. The app was designed from the ground up **without any external frameworks**, ensuring that your data stays **100% private and local**.
+At **Flavor Book**, your privacy is a priority. We ensure that your data stays **100% private and local**.
 
 ---
 
